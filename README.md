@@ -6,5 +6,5 @@
 ---
 
 ## Video
-<img width="80%" src="https://github.com/JinGW99/BigFarm/issues/1#issue-1450719820"/>
+<img width="80%" src="https://user-images.githubusercontent.com/114286539/202069119-39acbf3f-276d-4969-9ca1-1d061a30bdd2.mp4"/>
 ---
