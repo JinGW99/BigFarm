@@ -4,3 +4,7 @@
 ## Notion Link
 <https://www.notion.so/5-JAVA-Project-Big-farm-97a6341ad5f94318a2beddda026db0c8>
 ---
+
+## Video
+<img width="80%" src="https://github.com/JinGW99/BigFarm/issues/1#issue-1450719820"/>
+---
